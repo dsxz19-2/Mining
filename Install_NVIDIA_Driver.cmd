@@ -1,0 +1,1 @@
+curl https://github.com/xmrig/xmrig-cuda/releases/download/v6.17.0/xmrig-cuda-6.17.0-cuda11_3-win64.zip -O
